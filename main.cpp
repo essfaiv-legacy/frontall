@@ -1,3 +1,4 @@
+#ifdef __linux__
 #include <gtk/gtk.h>
 
 static void
@@ -26,3 +27,8 @@ main (int    argc,
 
   return status;
 }
+#elif _WIN32
+
+#else
+
+#endif
