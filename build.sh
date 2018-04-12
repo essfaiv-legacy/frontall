@@ -7,3 +7,5 @@ cmake -G "Unix Makefiles" ../
 make
 
 cd -
+
+#i686-w64-mingw32-gcc -o bin/frontall.exe main.cpp -mwindows
