@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWpf", "HelloWpf\HelloWpf.csproj", "{40DBAC55-8173-483D-A78C-B5A66B72425D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWpf", "HelloWpf.csproj", "{40DBAC55-8173-483D-A78C-B5A66B72425D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
