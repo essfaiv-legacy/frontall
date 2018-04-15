@@ -1,0 +1,14 @@
+C:\cpp\csharp\HelloWpf\HelloWpf\bin\Release\HelloWpf.exe.config
+C:\cpp\csharp\HelloWpf\HelloWpf\bin\Release\HelloWpf.exe
+C:\cpp\csharp\HelloWpf\HelloWpf\bin\Release\HelloWpf.pdb
+C:\cpp\csharp\HelloWpf\HelloWpf\obj\Release\MainWindow.g.cs
+C:\cpp\csharp\HelloWpf\HelloWpf\obj\Release\App.g.cs
+C:\cpp\csharp\HelloWpf\HelloWpf\obj\Release\HelloWpf_MarkupCompile.cache
+C:\cpp\csharp\HelloWpf\HelloWpf\obj\Release\HelloWpf_MarkupCompile.lref
+C:\cpp\csharp\HelloWpf\HelloWpf\obj\Release\MainWindow.baml
+C:\cpp\csharp\HelloWpf\HelloWpf\obj\Release\HelloWpf.g.resources
+C:\cpp\csharp\HelloWpf\HelloWpf\obj\Release\HelloWpf.Properties.Resources.resources
+C:\cpp\csharp\HelloWpf\HelloWpf\obj\Release\HelloWpf.csproj.GenerateResource.cache
+C:\cpp\csharp\HelloWpf\HelloWpf\obj\Release\HelloWpf.csproj.CoreCompileInputs.cache
+C:\cpp\csharp\HelloWpf\HelloWpf\obj\Release\HelloWpf.exe
+C:\cpp\csharp\HelloWpf\HelloWpf\obj\Release\HelloWpf.pdb

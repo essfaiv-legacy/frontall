@@ -1,0 +1,23 @@
+﻿<Window x:Class="HelloWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelloWpf"
+        mc:Ignorable="d"
+        Title="AUTENTICAÇÃO" Width="414" Height="228" ResizeMode="NoResize" ShowInTaskbar="False" Topmost="True" WindowStartupLocation="CenterScreen" BorderThickness="0" Background="White" VerticalAlignment="Top">
+    <Grid Height="109" Margin="11,16,0,0" VerticalAlignment="Top" Grid.Row="3" HorizontalAlignment="Left" Width="337">
+        <Grid HorizontalAlignment="Left" Height="36" VerticalAlignment="Top" Width="337">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Usuário:" HorizontalAlignment="Left" Margin="4,5,0,0" VerticalAlignment="Top" Height="26" HorizontalContentAlignment="Right" Width="53" Padding="1,5"/>
+            <TextBox x:Name="Foo1" HorizontalAlignment="Right" Height="26" Margin="0,5" TextWrapping="Wrap" Width="275" VerticalContentAlignment="Center" VerticalAlignment="Center" TextChanged="Foo1_TextChanged"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="36" VerticalAlignment="Top" Width="337" Margin="0,36,0,0">
+            <Label Content="Senha:" HorizontalAlignment="Left" Margin="6,5,0,0" VerticalAlignment="Top" Width="51" HorizontalContentAlignment="Right" Padding="1,5"/>
+            <PasswordBox x:Name="Foo2" HorizontalAlignment="Right" Margin="0,5" VerticalAlignment="Center" Width="275" Height="26" VerticalContentAlignment="Center" PasswordChanged="Foo2_PasswordChanged"/>
+        </Grid>
+        <Button x:Name="Foo4" Content="Entrar" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="100" Height="32" IsDefault="True" Click="Button_Click" IsEnabled="False"/>
+    </Grid>
+</Window>
